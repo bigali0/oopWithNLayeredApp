@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e2d3210-8c77-48eb-b7e3-3e99bfccc792" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Gp7EQ4FoKl1nDxZZ5qBOkTGUdp" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\oopWithNLayeredApp\src" />
+      <recent name="C:\oopWithNLayeredApp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oopWithNLayeredApp.Main" />
+      <module name="oopWithNLayeredApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oopWithNLayeredApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="oopWithNLayeredApp" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e2d3210-8c77-48eb-b7e3-3e99bfccc792" name="Default Changelist" comment="" />
+      <created>1667073559099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667073559099</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1211" y="189" key="#com.intellij.ide.util.MemberChooser" timestamp="1667080932439">
+      <screen x="-1920" y="-116" width="1920" height="1160" />
+    </state>
+    <state x="-1211" y="189" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.-116.1920.1160@-1920.-116.1920.1160" timestamp="1667080932439" />
+    <state x="-703" y="-116" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1667074596817">
+      <screen x="-1920" y="-116" width="1920" height="1160" />
+    </state>
+    <state x="-703" y="-116" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/-1920.-116.1920.1160@-1920.-116.1920.1160" timestamp="1667074596817" />
+    <state x="-1305" y="229" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1667075500324">
+      <screen x="-1920" y="-116" width="1920" height="1160" />
+    </state>
+    <state x="-1305" y="229" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.-116.1920.1160@-1920.-116.1920.1160" timestamp="1667075500324" />
+    <state x="-1151" y="393" width="357" height="348" key="Github.ShareDialog" timestamp="1667083396162">
+      <screen x="-1920" y="-116" width="1920" height="1160" />
+    </state>
+    <state x="-1151" y="393" width="357" height="348" key="Github.ShareDialog/0.0.1920.1040/-1920.-116.1920.1160@-1920.-116.1920.1160" timestamp="1667083396162" />
+    <state width="1328" height="252" key="GridCell.Tab.0.bottom" timestamp="1667083402191">
+      <screen x="-1920" y="-116" width="1920" height="1160" />
+    </state>
+    <state width="1328" height="252" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.-116.1920.1160@-1920.-116.1920.1160" timestamp="1667083402191" />
+    <state width="1328" height="252" key="GridCell.Tab.0.center" timestamp="1667083402191">
+      <screen x="-1920" y="-116" width="1920" height="1160" />
+    </state>
+    <state width="1328" height="252" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.-116.1920.1160@-1920.-116.1920.1160" timestamp="1667083402191" />
+    <state width="1328" height="252" key="GridCell.Tab.0.left" timestamp="1667083402191">
+      <screen x="-1920" y="-116" width="1920" height="1160" />
+    </state>
+    <state width="1328" height="252" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.-116.1920.1160@-1920.-116.1920.1160" timestamp="1667083402191" />
+    <state width="1328" height="252" key="GridCell.Tab.0.right" timestamp="1667083402191">
+      <screen x="-1920" y="-116" width="1920" height="1160" />
+    </state>
+    <state width="1328" height="252" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.-116.1920.1160@-1920.-116.1920.1160" timestamp="1667083402191" />
+    <state x="454" y="69" key="SettingsEditor" timestamp="1667073808740">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="454" y="69" key="SettingsEditor/0.0.1920.1040/-1920.-116.1920.1160@0.0.1920.1040" timestamp="1667073808740" />
+  </component>
+</project>
